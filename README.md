@@ -36,8 +36,8 @@ I enjoy building reliable backend services, deploying systems with modern DevOps
 - Backend development using Python and Flask
 - DevOps automation with Docker, CI/CD, Azure DevOps, and Kubernetes
 - Linux systems, networking, and algorithms
-- Experience building and deploying backend systems
-- Focus on scalable and maintainable applications
+- Building and deploying backend systems
+- Scalable and maintainable applications
 
 ---
 
