@@ -89,18 +89,15 @@ I enjoy building reliable backend services, deploying systems with modern DevOps
 
 ---
 
-## 🎯 Career Focus
-
+🎯 Career Focus
 <div align="center">
 
 Backend Engineering • DevOps Engineering • Cloud Systems • Scalable Infrastructure
 
 </div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fujitsu9494/fujitsu9494/output/pacman-contribution-graph-dark.svg">
 
-###
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fujitsu9494/fujitsu9494/output/pacman-contribution-graph.svg">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fujitsu9494/fujitsu9494/output/pacman-contribution-graph.svg">
 </picture>
