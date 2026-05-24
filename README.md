@@ -29,15 +29,15 @@ I enjoy building reliable backend services, deploying systems with modern DevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
 </div>
 
-###
+---
 
 ## 📌 Summary
 
 - Backend development using Python and Flask
 - DevOps automation with Docker, CI/CD, Azure DevOps, and Kubernetes
 - Linux systems, networking, and algorithms
-- Experience building and deploying full-stack backend systems
-- Focus on scalable, maintainable applications
+- Experience building and deploying backend systems
+- Focus on scalable and maintainable applications
 
 ---
 
@@ -46,98 +46,36 @@ I enjoy building reliable backend services, deploying systems with modern DevOps
 ### 🛡️ Network Scanner Dashboard
 **Tech:** Linux, Nmap, Apache, Python
 
-Built a web-based network scanning system to automate host discovery and visualize scan results.
-
 - Automated network scanning using Nmap
-- Web dashboard for displaying scan results
-- Linux-based deployment using Apache
-- Focus on automation and networking concepts
-
----
-
-### 🧠 Python Algorithm Tasks
-**Tech:** Python
-
-Solved algorithmic and sequence-based problems focusing on logic building.
-
-- Implemented solutions such as largest series product
-- Strengthened data structures and problem-solving skills
-- Focused on clean logic and error handling
+- Built dashboard to visualize scan results
+- Linux deployment using Apache
 
 ---
 
 ### 🌐 Flask Portfolio & Web Application
 **Tech:** Flask, Python
 
-Developed a personal portfolio web application.
-
-- Built backend using Flask
-- Structured modular backend architecture
-- Deployed live portfolio application
-
----
-
-### 🗄️ Flask + SQLite Web Application
-**Tech:** Flask, SQLite
-
-Developed a full backend web application with database integration.
-
-- Designed database schema using SQLite
-- Focused on backend data flow and architecture
+- Developed modular backend architecture
+- Built and deployed portfolio application
 
 ---
 
 ### ⚙️ CI/CD Pipeline & Cloud Deployment
 **Tech:** Docker, Azure DevOps, Kubernetes, Flask
 
-Designed and deployed a containerized CI/CD pipeline for a Flask application.
-
-- Containerized application using Docker
-- Automated build and deployment using Azure DevOps pipelines
-- Deployed application using Kubernetes
-- Strengthened understanding of cloud-native architecture
-
----
-
-### ☁️ Cloud E-Commerce System
-**Tech:** Cloud Architecture, Database Systems
-
-Developed a scalable e-commerce backend system.
-
-- Designed system architecture for scalability
-- Focused on database design and backend performance
-- Applied cloud deployment concepts
+- Containerized Flask application using Docker
+- Automated deployment with Azure DevOps
+- Deployed services using Kubernetes
 
 ---
 
 ## 🧠 Technical Skills
 
-### Languages
-- Python
-
-### Backend Development
-- Flask
-- SQLite
-- Database Design
-
-### DevOps & Cloud
-- Docker
-- CI/CD Pipelines
-- Azure DevOps
-- Kubernetes
-- Cloud Deployment
-
-### Systems & Networking
-- Linux
-- Networking (Nmap)
-- System Administration Basics
-
-### Fundamentals
-- Data Structures
-- Algorithms
-- Problem Solving
-- Debugging
-- Exception Handling
+**Languages:** Python  
+**Backend:** Flask, SQLite  
+**DevOps & Cloud:** Docker, Kubernetes, Azure DevOps, CI/CD  
+**Systems:** Linux, Networking, Nmap  
+**CS Fundamentals:** Algorithms, Data Structures, Problem Solving
 
 ---
 
@@ -157,12 +95,6 @@ Developed a scalable e-commerce backend system.
 
 Backend Engineering • DevOps Engineering • Cloud Systems • Scalable Infrastructure
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
